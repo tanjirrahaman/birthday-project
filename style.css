@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.backc{
+    background-color: rgb(240, 220, 232);
+}
+.card-color1{
+    background-color: rgb(243, 137, 190);
+}
+.card-color2{
+    background-color: khaki;
+}
+.card-color3{
+    background-color: lightcoral;
+}
